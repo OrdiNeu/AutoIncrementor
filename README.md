@@ -1,5 +1,5 @@
 # AutoIncrementor
-A quick python script to increment/decrement text in a file with a keyboard press.
+A quick python script to increment/decrement text in a file with a keyboard press. For use with [Streamlabs OBS](http://streamlabs.com/)' Text widget
 
 <img src="Demo.gif" alt="demo" style="width: 465;" />
 
